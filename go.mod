@@ -1,4 +1,4 @@
-module github.com/justmiles/go-confluence
+module github.com/quinyx-tjeerd/go-confluence
 
 go 1.15
 
